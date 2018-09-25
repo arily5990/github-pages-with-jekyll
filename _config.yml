@@ -1,12 +1,12 @@
-title: arily
-author: GitHub User
+title: 第一个标题
+author: arily 
 email: 894231294@qq.com
-description: wow 
+description: 学习实践使用GitHub
 
 # social links
 twitter_username: arily
 github_username:  arily
-1
-show_excerpts: false # set to false to remove excerpts on the homepage
-2
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
 theme: jekyll-theme-cayman
